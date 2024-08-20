@@ -12,6 +12,18 @@
 
 To set up the project, start by cloning or downloading the repository from your preferred source.
 
+### Install
+
+Run composer installation
+
+```bash
+composer install
+```
+
+```bash
+npm install
+```
+
 ### Configuration
 
 1. **Environment Setup**:  
@@ -36,6 +48,12 @@ To set up the project, start by cloning or downloading the repository from your 
     ```
 
 ## Running the Application
+
+Run Vite:
+
+```bash
+npm run dev
+```
 
 To start the application, run the following command in your command line:
 
