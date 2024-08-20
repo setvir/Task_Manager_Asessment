@@ -1,5 +1,3 @@
----
-
 **NOTE:** This was an assessment task for an interview and is in no way a fully developed application. Please do not use the code as is.
 
 ## Simple Tasks
@@ -73,5 +71,3 @@ There are two ways to change the priority of a task:
 ## Project Filter
 
 To only show tasks for a specific project, use the project dropdown above the task table. Select the project to show that project.
-
----
