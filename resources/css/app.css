@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+    background: no-repeat top center url("/images/background.png");
+    background-size: cover;
+    background-color: black !important;
+}
+.container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    text-align: center;
+    padding: 16px;
+    font-size: 0.875rem;
+    color: #ffffff !important;
+}
+.btn-primary {
+    background-color: #680900 !important;
+    border: #680900 !important;
+}
+.btn-secondary {
+    background-color: #685452 !important;
+    border: #685452 !important;
+}
+.card {
+    border: 1px solid #c23535 !important;
+}
+label {
+    font-weight: 600;
+}
+input,
+select {
+    border-color: #680900 !important;
+}
+.act_btn_delete {
+    padding: 2px;
+    width: 60px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: 0.8em;
+}
+.act_btn_edit {
+    padding: 2px;
+    width: 60px;
+    text-decoration: none;
+    color: white;
+    background-color: #680900;
+    border-radius: 5px;
+    font-size: 0.8em;
+}
+.pagenation {
+    color: #680900;
+}
+li.page-item.active,
+.active > .page-link {
+    background-color: #680900 !important;
+    border-color: #680900 !important;
+}
+.error {
+    color: red;
+}
