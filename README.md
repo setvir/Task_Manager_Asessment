@@ -1,5 +1,7 @@
 **NOTE:** This was an assessment task for an interview and is in no way a fully developed application. Please do not use the code as is.
 
+**VERSIONS:** Laravel v11.20.0 (PHP v8.2.13)
+
 ## Simple Tasks
 
 **Simple Tasks** is a task management application that allows users to manage and prioritize tasks with a drag-and-drop interface. The application also supports linking tasks to specific projects for better organization.
